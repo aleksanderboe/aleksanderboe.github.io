@@ -1,7 +1,7 @@
 ---
 title: TryHackMe - Lo-Fi
 date: 2025-05-02
-tags: [Pathtraversal]
+tags: []
 ---
 
 Description of CTF [Lo-Fi
