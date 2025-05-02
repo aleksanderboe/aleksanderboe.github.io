@@ -1,6 +1,6 @@
 ---
 title: TryHackMe - Lo-Fi
-date: 2025-05-02 15:00:00 +0000
+date: 2025-05-02
 tags: [Web Exploitation]
 ---
 
