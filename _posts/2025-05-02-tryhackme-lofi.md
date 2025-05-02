@@ -1,7 +1,7 @@
 ---
 title: TryHackMe - Lo-Fi
-date: 2025-05-02
-tags: []
+date: 2025-05-02 15:00:00 +0000
+tags: [Web Exploitation]
 ---
 
 Description of CTF [Lo-Fi
