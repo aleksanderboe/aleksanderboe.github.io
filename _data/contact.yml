@@ -3,8 +3,6 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
