@@ -1,7 +1,24 @@
 ---
 title: Vulnerability Assessment and Exploitation of "Social Insecurity"
 date: 2025-06-29
-tags: []
+categories: [Security Assessments]
+tags:
+  [
+    Vulnerability Assessment,
+    XSS,
+    CSRF,
+    SQL Injection,
+    OWASP ZAP,
+    SQLmap,
+    Flask,
+    Web Security,
+    Penetration Testing,
+    Authentication,
+    File Upload,
+    Path Traversal,
+    DoS,
+    DAT250,
+  ]
 ---
 
 # **Information and Software Security - Vulnerability Assessment and Exploitation**

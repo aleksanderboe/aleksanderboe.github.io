@@ -1,7 +1,16 @@
 ---
 title: TryHackMe - Lo-Fi
 date: 2025-05-02
-tags: [Web Exploitation]
+categories: [CTF Challenges]
+tags:
+  [
+    Web Exploitation,
+    Path Traversal,
+    TryHackMe,
+    Directory Traversal,
+    Apache,
+    Network Analysis,
+  ]
 ---
 
 Description of CTF [Lo-Fi

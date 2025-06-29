@@ -1,10 +1,24 @@
 ---
-title: Vulnerability Remediation of “Social Insecurity”
+title: Vulnerability Remediation of "Social Insecurity"
 date: 2025-06-29
-tags: []
+categories: [Security Assessments]
+tags:
+  [
+    Vulnerability Remediation,
+    Security Fixes,
+    CSRF Protection,
+    Password Hashing,
+    Input Validation,
+    Rate Limiting,
+    File Upload Security,
+    Flask-WTF,
+    Bcrypt,
+    Secure Coding,
+    DAT250,
+  ]
 ---
 
-# **Information and Software Security - Vulnerability Remediation of “Social Insecurity"**
+# **Information and Software Security - Vulnerability Remediation of "Social Insecurity"**
 
 ## **1. Introduction**
 
