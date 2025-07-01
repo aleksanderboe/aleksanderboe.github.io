@@ -16,7 +16,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Aleksander # the main title
+title: Aleksander Bø # the main title
 
 tagline: Student # it will display as the sub-title
 
@@ -30,21 +30,17 @@ url: ""
 github:
   username: aleksanderboe # change to your github username
 
-twitter:
-  username: Acidixs # change to your twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Aleksander
+  name: Aleksander Bø
   #email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/Acidixs # change to your twitter homepage
+    - https://www.linkedin.com/in/aleksanderbo
     - https://github.com/aleksandeboe # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
 
