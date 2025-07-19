@@ -31,7 +31,3 @@ This opens up for path traversal as we can edit the parameter. Also looking at t
 ![img-description](/assets/img/thm-lofi-inspect.png)
 The default directory for web content is `var/www.html`. Thus if we include the following escape sequence `../../../flag.txt` we should be able to move up in the directory to the root directory and access the flag file.
 ![img-description](/assets/img/thm-lofi-url.png)
-
-```
-flag{e4478e0eab69bd642b8238765dcb7d18}
-```
