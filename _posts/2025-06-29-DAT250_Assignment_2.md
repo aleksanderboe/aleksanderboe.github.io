@@ -10,10 +10,6 @@ tags:
     Password Hashing,
     Input Validation,
     Rate Limiting,
-    File Upload Security,
-    Flask-WTF,
-    Bcrypt,
-    Secure Coding,
     DAT250,
   ]
 ---

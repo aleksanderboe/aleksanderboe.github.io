@@ -7,8 +7,6 @@ tags:
     Web Exploitation,
     TryHackMe,
     File Upload,
-    PDF Generation,
-    Server-Side,
     Web Security,
   ]
 ---
