@@ -13,9 +13,6 @@ Description of TryHackMe [The Game](https://tryhackme.com/room/thegame) (Premium
 
 ![img-description](/assets/img/thm-the-game/thm-the-game-banner.png)
 
-## Challenge Overview
-
-In this challenge, we are provided with a downloadable archive containing the files for a game called Tetrix (or Tetrim), built with the Godot game engine. The objective is simple: achieve a score higher than 999,999 to reveal the flag.
 
 ## Initial Analysis
 
