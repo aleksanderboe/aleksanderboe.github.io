@@ -2,7 +2,7 @@
 title: TryHackMe - Corridor
 categories: [CTF Challenges]
 tags: [TryHackMe, Web Exploitation, IDOR, Hash Cracking, Python Scripting]
-date: 2025-07-23
+date: 2025-08-01
 ---
 
 Description of TryHackMe [Corridor](https://tryhackme.com/room/corridor) from [TryHackMe](https://tryhackme.com/)
